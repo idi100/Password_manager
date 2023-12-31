@@ -9,4 +9,4 @@ Solution: I have recreated a password manager in Python, showcasing different fi
 Steps:
 1. Create an entry password/master password.
 2. Add the password you want to save along with a name or account.
-3. You know have the option of adding more passwords or viewing the file with the saved passwords.
+3. You now have the option of adding more passwords or viewing the file with the saved passwords.
